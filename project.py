@@ -1,4 +1,4 @@
 # Python Weight Converter
 
 weight = float(input("Enter your weight"))
-unit = input(Kilograms)
+unit = input(Kilograms or Pounds)
