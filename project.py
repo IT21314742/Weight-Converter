@@ -1,3 +1,3 @@
 # Python Weight Converter
 
-weight = float(input)
+weight = float(input("Enter your weight"))
