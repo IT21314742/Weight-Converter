@@ -7,4 +7,5 @@ if unit == "K":
     weight = weight * 2.205
 elif unit == "L":
     weight = weight /2.205
-else
+else:
+    print("f{unit} was not valid")
