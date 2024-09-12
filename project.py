@@ -2,3 +2,5 @@
 
 weight = float(input("Enter your weight"))
 unit = input("Kilograms or Pounds? (k or L): ")
+
+if unit == "K":
