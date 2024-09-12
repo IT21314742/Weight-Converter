@@ -5,9 +5,10 @@ unit = input("Kilograms or Pounds? (k or L): ")
 
 if unit == "K":
     weight = weight * 2.205
-    unit = "lbs"
+    unit = "lbs."
 elif unit == "L":
     weight = weight /2.205
+    unit = "kgs."
 else:
     print("f{unit} was not valid")
 
